@@ -4,7 +4,7 @@ Este projeto utiliza os conceitos de TinyML para identificar doenças presentes 
 ## Arquivos e links
 * O arquivo [deteccao_de_doencas_em_folhas_de_tomate.pdf](./deteccao_de_doencas_em_folhas_de_tomate.pdf) consiste no relatório detalhado do projeto.
 * O arquivo [nano_ble33_sense_camera.ino](./nano_ble33_sense_camera.ino) consiste no código utilizado no Arduino para testes.
-* O arquivo [folhas_de_teste.pdf](./folhas_de_teste.pdf) consiste em fotografias das folhas utilizadas para testes.
+* O arquivo [folhas_de_teste.pdf](./folhas_de_teste.pdf) consiste em fotografias de folhas utilizadas para testes.
 * A licença do repositório pode ser consultada em [LICENSE](./LICENSE).
 * O projeto completo na plataforma Edge Impulse pode ser consultado no link [Tomato_leaf_disease_detection](https://studio.edgeimpulse.com/public/439395/live).
 
