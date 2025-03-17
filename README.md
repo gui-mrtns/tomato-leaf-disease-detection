@@ -1,5 +1,5 @@
 # Detecção de doenças em folhas de tomate com TinyML
-Este projeto utiliza os conceitos de TinyML para identificar doenças presentes em folhas de tomate a partir de fotografias, com intuito de auxiliar no monitoramento agrícola. O projeto foi realizado na disciplina “TinyML - Aprendizado de Máquina Aplicado para Dispositivos IoT Embarcados” no primeiro semestre de 2024 no curso de Engenharia de Computação na Universidade Federal de Itajubá (UNIFEI - campus Itajubá).
+Este projeto utiliza os conceitos de TinyML para identificar doenças presentes em folhas de tomate a partir de fotografias, com intuito de auxiliar no monitoramento agrícola. O projeto foi requisito parcial na avaliação da disciplina “TinyML - Aprendizado de Máquina Aplicado para Dispositivos IoT Embarcados” do primeiro semestre de 2024 do curso de Engenharia de Computação da Universidade Federal de Itajubá (UNIFEI - _campus_ Itajubá).
 
 ## Arquivos
 * O projeto completo na plataforma Edge Impulse pode ser consultado no seguinte link: [Tomato_leaf_disease_detection](https://studio.edgeimpulse.com/public/439395/live)
